@@ -1,0 +1,54 @@
+_repo: The-Sin-of-Monsieur-Antoine-Volume-2-of-2-and-Leone-Leoni_67461
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vidal, Pierre
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '54278'
+    url: http://www.gutenberg.org/2009/agents/54278
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Vidal_(illustrateur)
+  translator:
+    agent_name: Ives, George Burnham
+    alias: Ives, George B.
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '9437'
+    url: http://www.gutenberg.org/2009/agents/9437
+    wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dupin, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/George_Sand
+    - https://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2022-02-21'
+identifiers:
+  gutenberg: '67461'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006130562
+pgterms:marc905: 20211122083440sand
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Dagny and Laura Natal Rodrigues (Images generously made available
+  by Hathi Trust Digital Library.)
+publication_note: United States :G. Barrie & son,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Masterpieces of George Sand. Volume 6
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: The Sin of Monsieur Antoine, Volume 2 (of 2) and Leone Leoni
+url: http://www.gutenberg.org/ebooks/67461
