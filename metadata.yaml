@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '9437'
     url: http://www.gutenberg.org/2009/agents/9437
     wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+covers:
+- cover_type: archival
+  image_path: 67461-h/images/antoine02_cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -31,6 +34,8 @@ creator:
     - https://fr.wikipedia.org/wiki/George_Sand
     - https://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67461#The-Sin-of-Monsieur-Antoine-Volume-2-of-2-and-Leone-Leoni
 gutenberg_issued: '2022-02-21'
 identifiers:
   gutenberg: '67461'
